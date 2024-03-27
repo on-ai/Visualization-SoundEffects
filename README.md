@@ -10,9 +10,6 @@
 
 <div><video controls src="./notebooks/sound.mp4" muted="false"></video></div>
 
-<video width="640" height="360" controls>
-  <source src="./notebooks/sound.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 

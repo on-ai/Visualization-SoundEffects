@@ -13,7 +13,5 @@
   Your browser does not support the video tag.
 </video>
 
-<audio controls>
-  <source src="./notebooks/sound.mp4" type="audio/mp4">
-  Your browser does not support the audio tag.
-</audio>
+
+<div><video controls src="./notebooks/sound.mp4" muted="false"></video></div>

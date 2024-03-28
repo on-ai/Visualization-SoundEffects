@@ -1,6 +1,6 @@
 #----------------------------------------
 # Based on the original interactive logic of Austin Boone
-# This file will generate several melodies for different keys
+# This file will generate several melodies for different keys 
 #----------------------------------------
 import subprocess
 import sys

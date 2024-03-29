@@ -15,7 +15,8 @@ Each wave is concatenated to generate a wav file<br>
 <br>
 <br>
 <br>
-![ANN GraphViz](./pictures/Frequency.png "ANN GraphViz")<br>
+![Frequency-Duration-Volume](./pictures/Frequency.png "Frequency-Duration-Volume")
+<br>
 <br>
 <br>
 <div><video controls src="./notebooks/sound.mp4" muted="false"></video></div>
